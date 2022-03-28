@@ -260,10 +260,7 @@ textarea {
     page-break-after: avoid;
   }
 }
-p{
-  font-family: 'Caveat', cursive;
+h1, p{
   font-family: 'Dela Gothic One', cursive;
-  font-family: 'Orbitron', sans-serif;
-  font-family: 'Press Start 2P', cursive;
 }
 
