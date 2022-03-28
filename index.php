@@ -24,7 +24,7 @@
 
 <body>
   <?php
-    require_once(header.php);
+    require_once("header.php");
   ?>
   <!-- Add your site or application content here -->
   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae qui nihil assumenda incidunt maxime 
@@ -44,7 +44,7 @@
   </script>
   <script src="https://www.google-analytics.com/analytics.js" async></script>
   <?php
-    require_once(footer.php);
+    require_once("footer.php");
   ?>
 </body>
 
