@@ -2,6 +2,7 @@
     require_once("header.php");
   ?>
   <!-- Add your site or application content here -->
+  <img src="img/rollercoaster.webp" alt="">
   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae qui nihil assumenda incidunt maxime 
     ipsum sed alias modi libero repellat, aliquam veritatis ut porro beatae sunt, sequi deserunt aperiam, dolores dolor 
     cupiditate hic eius dignissimos. Molestiae consequuntur aspernatur error odit maiores laborum, excepturi repellat culpa porro, 
