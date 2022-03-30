@@ -23,6 +23,15 @@
 </head>
 <body>
     <header>
-        <h1>Supercoaster-NV</h1>
-        
+      <img src="img/RollerCoaster_Tycoon_3_logo.png" alt="Logo">
+      <h1>Supercoaster-NV</h1>
+     
+      <nav>
+        <a href="index.php">Home</a>
+        <a href="constructies.php">Constructie</a>
+        <a href="karretjes.php">Karretjes</a>
+        <a href="contact.php">Contact</a>
+      </nav>
+      
+
     </header>
