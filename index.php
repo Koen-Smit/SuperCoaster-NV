@@ -1,6 +1,7 @@
   <?php
     require_once("header.php");
   ?>
+  <div class="wrapper">
   <!-- Add your site or application content here -->
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dela+Gothic+One&family=Orbitron&display=swap');
@@ -27,6 +28,7 @@
     ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
   </script>
   <script src="https://www.google-analytics.com/analytics.js" async></script>
+  </div>
   <?php
     require_once("footer.php");
   ?>
