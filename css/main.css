@@ -271,11 +271,13 @@ textarea {
 }  
 .class1{
   display: flex;
-  justify-content: space-around;
-  margin-left: 80px;
-  margin-right: 80px;
+  justify-content: space-between;
+  
 } 
 .class2{
   margin-left: 60px;
 }  
-
+.wrapper{
+  width: 75%;
+  margin: 0px auto;
+}
