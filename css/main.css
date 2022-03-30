@@ -260,7 +260,22 @@ textarea {
     page-break-after: avoid;
   }
 }
-h1, p{
+.class1 p{
   font-family: 'Dela Gothic One', cursive;
 }
+.class1 h1{
+  font-family: 'Dela Gothic One', cursive;
+}
+.class1 img{
+  width: 45%;
+}  
+.class1{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 80px;
+  margin-right: 80px;
+} 
+.class2{
+  margin-left: 60px;
+}  
 
