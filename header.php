@@ -2,6 +2,7 @@
 <html class="no-js" lang="">
 
 <head>
+  
   <meta charset="utf-8">
   <title>Supercoaster-NV</title>
   <meta name="description" content="">
@@ -19,6 +20,7 @@
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
 
+  <script src="https://kit.fontawesome.com/36ac186ef8.js" crossorigin="anonymous"></script>
   <meta name="theme-color" content="#fafafa">
 </head>
 <body>
