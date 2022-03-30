@@ -98,6 +98,7 @@ textarea {
   .class1{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 50px;
   } 
   .class2{
     margin-left: 60px;
