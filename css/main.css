@@ -260,7 +260,10 @@ textarea {
     page-break-after: avoid;
   }
 }
-.class1 p, h1{
+.class1 p{
+  font-family: 'Dela Gothic One', cursive;
+}
+.class1 h1{
   font-family: 'Dela Gothic One', cursive;
 }
 
