@@ -86,6 +86,29 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+   .class1 p{
+    font-family: 'Dela Gothic One', cursive;
+  }
+  .class1 h1{
+    font-family: 'Dela Gothic One', cursive;
+  }
+  .class1 img{
+    width: 45%;
+  }  
+  .class1{
+    display: flex;
+    justify-content: space-between;
+  } 
+  .class2{
+    margin-left: 60px;
+  }  
+  .wrapper{
+    width: 75%;
+    margin: 0px auto;
+  }
+
+
+
 
 /* ==========================================================================
    Helper classes
@@ -260,23 +283,4 @@ textarea {
     page-break-after: avoid;
   }
 }
-.class1 p{
-  font-family: 'Dela Gothic One', cursive;
-}
-.class1 h1{
-  font-family: 'Dela Gothic One', cursive;
-}
-.class1 img{
-  width: 45%;
-}  
-.class1{
-  display: flex;
-  justify-content: space-between;
-} 
-.class2{
-  margin-left: 60px;
-}  
-.wrapper{
-  width: 75%;
-  margin: 0px auto;
-}
+
