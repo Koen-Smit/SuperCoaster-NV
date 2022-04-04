@@ -98,7 +98,7 @@ textarea {
   .class1{
     display: flex;
     justify-content: space-between;
-    margin-bottom: 50px;
+    margin: 50px 0px;
   } 
   .class2{
     margin-left: 60px;
@@ -113,6 +113,25 @@ textarea {
   .div2{
     margin-right: 400px;
   }
+
+/* ============
+footer
+============ */
+.footer{
+  text-align: center;
+  background-color: #05668D;
+  height: 25vh;
+}
+.footer a{
+  text-decoration: none;
+  color: black;
+}
+.social-media{
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
 
 
 
