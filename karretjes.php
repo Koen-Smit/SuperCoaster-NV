@@ -3,17 +3,16 @@
 ?>
 <div class="wrapper">
     <div class="class1">
-        <img src="img/220920katloop.jpg" alt="">
+        <img src="img/plaatje7.jpg" alt="">
         <div class="div2">
-            <p>name: rollercoaster</p>
-            <p>park: ?</p>
-            <p>location: ?</p>
-            <p>status: dicht</p>
-            <p>snelheid: 500km/u</p>
-            <p>hoogte: 400m</p>
-            <p>gemaakt door: Supercoaster-NV</p>
         </div>    
     </div>
+    <div class="class1">
+        <img src="img/plaatje8.jpg" alt="">
+    </div>
+    <div class="class1">    
+        <img src="img/plaatje9.jpg" alt="">
+    </div>    
 </div>   
 <?php
     require_once("footer.php");

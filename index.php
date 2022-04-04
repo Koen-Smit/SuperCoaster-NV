@@ -7,7 +7,7 @@
     @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dela+Gothic+One&family=Orbitron&display=swap');
   </style>
     <div class="class1">
-      <img src="img/rollercoaster.webp" alt="">
+      <img src="img/plaatje6.jpg" alt="">
       <div class="class2">
         <h1>Super Coaster</h1>
         <p>Onze nieuwe achtbaantechniek heet MagnaDrive. Door middel van een aantal onderdelen die ons ontwikkelteam uitgevonden heeft, 
