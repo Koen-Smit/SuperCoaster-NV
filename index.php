@@ -13,15 +13,6 @@
   <div class="wrapper">
 
 
-  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>
-  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>
-  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>
-  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>
-  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>
-  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>
-  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>
-  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>  <h1>aaaa</h1>
-
   <h1>Super Coaster</h1>
   <p>Onze nieuwe achtbaantechniek heet MagnaDrive. Door middel van een aantal onderdelen die ons ontwikkelteam uitgevonden heeft, 
     kunnen we een achtbaan produceren die tot 5-10% sneller kan gaan dan de snelste achtbaan tot nu toe, enkele graden scherpte kan 
