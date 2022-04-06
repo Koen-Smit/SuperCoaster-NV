@@ -159,8 +159,12 @@ nav a{
 .main{
   margin-top: 20vh;
 }
-
-
+p, img{
+  width: 50%;
+}
+button{
+  margin-left: 100px;
+}
 
 
 
