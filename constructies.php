@@ -22,7 +22,8 @@
         <h2> Ook zorgt dit ervoor dat een aantal designs voor achtbanen die eerder niet mogelijk waren nu wel mogelijk zijn. </h2>
 
 
-</body>  
+ 
 <?php
     require_once("php/footer.php");
   ?>
+  </body> 
