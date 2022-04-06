@@ -195,3 +195,7 @@ footer a{
 }
 /* .social-media{
 } */
+.constructiesH1{
+  display: flex;
+  justify-content: center;
+}
