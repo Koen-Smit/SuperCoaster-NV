@@ -1,2 +1,0 @@
-# SuperCoaster-NV
-https://miro.com/welcomeonboard/WEF0YTlYTUtOSHpCa2JKRDV0YjB0TGU0NEIwODU0bThzWm0zZjBvenZzN0x5TDNSRTgwSXdQSHdpVTRYVGZRSnwzMDc0NDU3MzYzODYxOTQ5NTM3?invite_link_id=886417989503
