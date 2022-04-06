@@ -5,15 +5,24 @@
     require_once("php/head.php");
 ?>
 <div class="wrapper">
-    <p id="info"></p>   
-    <p>
-        <img src="img/plaatje7.jpg" id="img">
-    </p> 
-    <p>
-        <button value="vorige" style="width: auto; height: auto;">vorige</button>
-        <button value="next">next</button>
-    </p>  
+    <h1>Over Karretjes</h1>
+    <div class="class1">
+        <div class="class3">
+            <p id="info"></p>   
+            <p>
+                <img src="img/plaatje7.jpg" id="img">
+            </p> 
+            <p>
+                <button value="vorige">vorige</button>
+                <button value="next">next</button>
+            </p>
+        </div>    
+        <div class="class2">
+            <p>Met onze MagnaCarts die ook speciaal werken op onze nieuw ontwikkelde MagnaAlloy onderdelen, kan elk pretpark het chassis naar wens aanpassen. Wij hebben een frame ontwikkeld die wij zo klein mogelijk hebben gehouden, zodat de rest van de kar helemaal zelf door het team ontworpen en ontwikkeld kan worden. Ook leveren wij de digitale bestanden waar deze ontwerpen op gebaseerd kunnen worden, zodat het team zo snel mogelijk aan de slag kan gaan unieke ontwerpen te creëren. Omdat ook deze karretjes gebruik maken van MagnaAlloy, zijn ze dus ook bestand tegen de extra G-krachten die deze techniek mogelijk maakt. Zo zijn onze producten dus breed inzetbaar, en zorgen wij voor de beste vooruitgang in de achtbaantechniek van het afgelopen decennia.</p>
+        </div>    
+    </div>    
 </div> 
+
 <script>
     window.onload = function(){
         var info = document.getElementById("info");
@@ -42,7 +51,6 @@
           img.src = path[index];
         };
       };
-
 </script>  
 <?php
     require_once("php/footer.php");
