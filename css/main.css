@@ -161,7 +161,7 @@ nav a{
 
 /* ------------------------------- Main -------------------------------------- */
 .main{
-  margin-top: 20vh;
+  margin-top: 10vh;
 }
 p, img{
   width: 100%;
@@ -181,8 +181,28 @@ button{
 .class2{
   margin: 30px;
 }
-
-
+.Form{
+  width: 60%;
+  margin: 0px auto;
+  display: flex;
+  flex-direction: column;
+}
+.Form_items{
+  display: flex;
+  justify-content: space-between;
+}
+.form_item{
+  margin: 10px 0px;
+  border: 1px solid #bdbdbd;
+  border-radius: 5px;
+  padding: 5px;
+}
+#name{
+  width: 400px;
+}
+#email{
+  width: 400px;
+}
 
 /* ------------------------------- Footer -------------------------------------- */
 footer{
