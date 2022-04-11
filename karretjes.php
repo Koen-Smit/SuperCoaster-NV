@@ -4,18 +4,60 @@
 <?php
     require_once("php/head.php");
 ?>
+<script>
+    const docStyle = document.documentElement.style
+const aElem = document.querySelector('a')
+const boundingClientRect = aElem.getBoundingClientRect()
+
+aElem.onmousemove = function(e) {
+
+    const x = e.clientX - boundingClientRect.left
+    const y = e.clientY - boundingClientRect.top
+    
+    const xc = boundingClientRect.width/2
+    const yc = boundingClientRect.height/2
+    
+    const dx = x - xc
+    const dy = y - yc
+    
+    docStyle.setProperty('--rx', `${ dy/-1 }deg`)
+    docStyle.setProperty('--ry', `${ dx/10 }deg`)
+    
+}
+
+aElem.onmouseleave = function(e) {
+    
+    docStyle.setProperty('--ty', '0')
+    docStyle.setProperty('--rx', '0')
+    docStyle.setProperty('--ry', '0')
+    
+}
+
+aElem.onmousedown = function(e) {
+    
+    docStyle.setProperty('--tz', '-25px')
+    
+}
+
+document.body.onmouseup = function(e) {
+    
+    docStyle.setProperty('--tz', '-12px')
+    
+}
+</script>
 <div class="wrapper">
-    <h1>Over Karretjes</h1>
+    <h1 id="karretje">Over Karretjes</h1>
     <div class="class1">
         <div class="class3">
             <p id="info"></p>   
             <p>
                 <img src="img/plaatje7.jpg" id="img">
-            </p> 
-            <p>
-                <button value="vorige">vorige</button>
-                <button value="next">next</button>
             </p>
+
+            <div class="div4">
+                <button class="bttn-minimal bttn-md bttn-primary" value="vorige">vorige</button>
+                <button class="bttn-minimal bttn-md bttn-primary" value="next">next</button>
+            </div>    
         </div>    
         <div class="class2">
             <p>Met onze MagnaCarts die ook speciaal werken op onze nieuw ontwikkelde MagnaAlloy onderdelen, kan elk pretpark het chassis naar wens aanpassen. Wij hebben een frame ontwikkeld die wij zo klein mogelijk hebben gehouden, zodat de rest van de kar helemaal zelf door het team ontworpen en ontwikkeld kan worden. Ook leveren wij de digitale bestanden waar deze ontwerpen op gebaseerd kunnen worden, zodat het team zo snel mogelijk aan de slag kan gaan unieke ontwerpen te creëren. Omdat ook deze karretjes gebruik maken van MagnaAlloy, zijn ze dus ook bestand tegen de extra G-krachten die deze techniek mogelijk maakt. Zo zijn onze producten dus breed inzetbaar, en zorgen wij voor de beste vooruitgang in de achtbaantechniek van het afgelopen decennia.</p>
