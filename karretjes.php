@@ -46,7 +46,7 @@ document.body.onmouseup = function(e) {
 }
 </script>
 <div class="wrapper">
-    <h1 id="karretje">Over Karretjes</h1>
+    <h1 id="karretje" style="margin-top: 30px;">Over Karretjes</h1>
     <div class="class1">
         <div class="class3">
             <p id="info"></p>   
