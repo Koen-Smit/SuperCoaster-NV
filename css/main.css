@@ -370,6 +370,11 @@ p, img{
 .div4{
   display: flex;
   justify-content: space-between;
+  margin-top: -35px;
+}
+img{
+  width: 500px;
+  height: 300px;
 }
 
 /* ------------------------------- Footer -------------------------------------- */
