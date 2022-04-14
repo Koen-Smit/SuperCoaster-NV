@@ -131,6 +131,9 @@ header{
   width: 100%;
 }
 
+#toggle1 {
+  display: none;
+}
 
 .headerImage{
   width: auto;
