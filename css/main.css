@@ -87,6 +87,79 @@ p, img{
 .class2{
   margin: 30px;
 }
+
+main h1{
+  color: #FFD301;
+  font-size: 50px;
+  text-align: center;
+}
+
+.homespan{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border-bottom: black 1px solid;
+  margin-bottom: 130px;
+}
+
+.homespan img:hover{
+  transform: scale(1.1);
+}
+
+.constructieinfo p{
+  font-size: 20px;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 130px;
+  margin-top: 70px;
+  border-bottom: 1px black solid;
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+.homespan1{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+
+.homespan1 p{
+  margin-top: 40px;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.supercoaster{
+  margin-top: 50px;
+  border-bottom: black 1px solid;
+}
+
+.homespan1 img{
+  margin: 30px;
+  border-radius: 50px;
+}
+
+.h1karretjes{
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.karretjes{
+  display: flex;
+  flex-direction: column;
+}
+
+.karretjes p{
+  margin-left: 50px;
+  font-weight: bold;
+  font-size: 30px;margin-bottom: 30px;
+}
+
+.main .supercoaster{
+  margin-bottom: 120px;
+}
+
 .Form{
   width: 60%;
   margin: 0px auto;
