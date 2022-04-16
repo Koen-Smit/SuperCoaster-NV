@@ -3,10 +3,7 @@
 </head>
 
 <body>
-  
-  <?php
-    require_once("php/header.php");
-  ?>
+  <?php require_once("php/header.php");?>
 
   <div class="wrapper">
 
