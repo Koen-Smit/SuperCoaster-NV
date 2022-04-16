@@ -1,6 +1,5 @@
-<?php 
-    require_once("php/head.php");
-?>
+    <?php require_once("php/head.php");?>
+    <title>Supercoaster-NV / Contact</title>
 </head>
 <script>
     const docStyle = document.documentElement.style

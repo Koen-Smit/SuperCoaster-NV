@@ -1,13 +1,7 @@
-<?php
-    require_once("php/header.php");
-?>
-<?php
-    require_once("php/head.php");
-?>
-<script>
-    const docStyle = document.documentElement.style
-const aElem = document.querySelector('a')
-const boundingClientRect = aElem.getBoundingClientRect()
+    <?php require_once("php/head.php");?>
+    <title>Supercoaster-NV</title>
+</head>
+<body>
 
 aElem.onmousemove = function(e) {
 

@@ -1,6 +1,4 @@
-<?php 
-    require_once("php/head.php");
-  ?>
+  <?php require_once("php/head.php");?>
   <title>Supercoaster-NV</title>
 </head>
 

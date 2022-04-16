@@ -1,7 +1,5 @@
-<?php 
-    require_once("php/head.php");
-  ?>
-  <title>Supercoaster-NV</title>
+<?php require_once("php/head.php");?>
+  <title>Supercoaster-NV / Home</title>
 </head>
 
 <body>
