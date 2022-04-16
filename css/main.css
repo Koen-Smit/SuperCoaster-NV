@@ -183,8 +183,25 @@ main h1{
   width: 400px;
 }
 
+.imageButtons{
+  display: flex;
+  justify-content: space-between;
+  margin-top: -35px;
+}
+img{
+  width: 500px;
+  height: 300px;
+}
 
+.main{
+  border-bottom: black 1px solid;
+  margin-bottom: 130px;
+}
 
+.main h1{
+  font-size: 50px;
+  margin-bottom: 50px;
+}
 
 
 
