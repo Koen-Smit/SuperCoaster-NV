@@ -58,10 +58,9 @@ document.body.onmouseup = function(e) {
                 <textarea name="message"class="form_item" minlength="20" id="message" cols="30" rows="7" placeholder="Uw bericht" required></textarea>
                 <input type="submit" value="Verzend formulier">
             </form>
+            </div>
         </div>
     </main>
-    <?php
-    require_once("php/footer.php");
-    ?>
+    <?php require_once("php/footer.php");?>
 </body>
 </html>

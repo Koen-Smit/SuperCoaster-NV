@@ -60,3 +60,10 @@
 <?php
     require_once("php/footer.php");
 ?>     
+        </div>
+      </div>
+    </main>
+  </div> 
+  <?php require_once("php/footer.php");?>
+</body>
+</html>
