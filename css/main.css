@@ -117,22 +117,10 @@ p, img{
 
 
 }
-.bttn-success {
-  color: #28b78d;
-}
-.bttn-royal {
-  color: #bd2df5;
 }
 }
-.bttn-sm {
-  padding: 4px 10px;
-  font-size: 16px;
-  font-family: inherit;
 }
-.bttn-xs {
-  padding: 3px 8px;
-  font-size: 12px;
-  font-family: inherit;
+}
 }
   font-size: 20px;
 }
