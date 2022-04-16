@@ -2,9 +2,7 @@
     <title>Supercoaster-NV / Contact</title>
 </head>
 <body>
-    <?php
-    require_once("php/header.php");
-    ?>
+    <?php require_once("php/header.php");?>
     <main>
         <div class="main">
         <form class="Form" action="backend/ContactController.php" method="POST">
