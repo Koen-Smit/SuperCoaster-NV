@@ -136,9 +136,10 @@ p, img{
 }
   font-size: 20px;
 }
-img{
-  width: 500px;
-  height: 300px;
+
+.copy{
+  font-size: 15px;
+  margin-top: 40px;
 }
 
 .contactinfo{
