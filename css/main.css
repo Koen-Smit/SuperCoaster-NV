@@ -165,12 +165,14 @@ main h1{
   margin: 0px auto;
   display: flex;
   flex-direction: column;
+  margin-bottom: 70px;
 }
 .Form_items{
   display: flex;
   justify-content: space-between;
 }
 .form_item{
+  background-color: #FFFFC2;
   margin: 10px 0px;
   border: 1px solid #bdbdbd;
   border-radius: 5px;
