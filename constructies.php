@@ -2,6 +2,12 @@
     <title>Supercoaster-NV</title>
 </head>
 <body>
+                <marquee behavior=scroll direction="right" scrollamount="12">
+                    <img src="img/plaatje10.jpg" alt="constructieimg">
+                    <img src="img/plaatje11.jpg" alt="constructieimg">
+                    <img src="img/plaatje12.jpg" alt="constructieimg">
+                    <img src="img/plaatje13.jpg" alt="constructieimg">
+                </marquee>
 
 aElem.onmousemove = function(e) {
 
