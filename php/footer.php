@@ -1,12 +1,18 @@
 <footer>
     <div class="social-media"> 
-        <a href=""><i class="fab fa-instagram"></i> Instagram</a>
-        <a href=""><i class="fab fa-brands fa-facebook-square"></i> Facebook</a>
-        <a href=""><i class="fab fa-brands fa-linkedin"></i> Linkedin</a>
+        <p>Social media:</p>
+        <nav class="footernav">
+            <a href=""><i class="fab fa-instagram"></i></a>
+            <a href=""><i class="fab fa-brands fa-facebook-square"></i></a>
+            <a href=""><i class="fab fa-brands fa-linkedin"></i></a>
+        </nav>
     </div>
     <div class="contact-info">
-        <p>Lorem@ipsum.nl</p> 
-        <p>0611restkomtvanzelf</p>
+        <p class="contactinfo">Contact informatie:</p>
+        <div class="ct">
+            <p>Email: Lorem@ipsum.nl</p> 
+            <p>Tel: 06-117796696</p>
+        </div>
     </div>
-    <p> by owned by SuperCoaster ©2021</p>
+    <p class="copy">Owned by SuperCoaster ©2021</p>
 </footer>
