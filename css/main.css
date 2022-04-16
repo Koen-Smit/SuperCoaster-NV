@@ -7,6 +7,7 @@
 
 body{
   background-image: linear-gradient(120deg, #c4eef9 0%, #00c8ff 100%);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dela+Gothic+One&family=Orbitron&display=swap');
