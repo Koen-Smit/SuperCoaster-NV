@@ -4,12 +4,10 @@
 <body>
     <?php require_once("php/header.php");?>
     <main>
-        <div class="main">
-        <form class="Form" action="backend/ContactController.php" method="POST">
-                <h2>Contact</h2>
-                <div class="Form_items">
-                    <input name="name"id="name" class="form_item" type="text" placeholder="Naam">
-                    <input name="email"id="email" class="form_item" type="email" placeholder="Email">
+        <div class="wrapper">
+            <div class="main">
+                <div class="supercoaster">
+                    <h1>Contact</h1>
                 </div>
                 
                 <form class="Form" action="backend/ContactController.php" method="POST">
