@@ -70,21 +70,30 @@ header nav a:hover{
 
 /* ------------------------------- Main -------------------------------------- */
 .main{
-  margin-top: 10vh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
 }
 p, img{
   width: 100%;
 }
-.class1{
+.homepageinfo{
   display: flex;
   justify-content: space-between;
   margin: 30px 30px 30px 0px;
 }
-.class3{
+.flexColumn{
   display: flex;
+  align-items: center;
   flex-direction: column;
+  justify-content: center;
 }
-.class2{
+
+.flexColumn img{
+  border-radius: 20px;
+}
+.karretjestext{
   margin: 30px;
 }
 
