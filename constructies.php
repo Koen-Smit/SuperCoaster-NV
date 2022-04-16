@@ -65,35 +65,6 @@ document.body.onmouseup = function(e) {
     </div>    
 </div> 
 
-<script>
-    window.onload = function(){
-        var info = document.getElementById("info");
-        var img = document.getElementById("img");
-        var path = ["img/plaatje10.jpg","img/plaatje11.jpg","img/plaatje12.jpg", "img/plaatje13.jpg"];
-
-        var index = 0;
-
-        var bt = document.getElementsByTagName("button");
-
-
-        bt[0].onclick = function () {
-          index--;
-          if(index < 0){
-            index = path.length - 1;
-          }
-
-          img.src = path[index];
-        };
-
-        bt[1].onclick = function () {
-          index++;
-          if(index > path.length - 1){
-            index = 0;
-          }
-          img.src = path[index];
-        };
-      };
-</script>  
 <?php
     require_once("php/footer.php");
 ?>     
